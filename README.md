@@ -1,6 +1,6 @@
 # first_project 
 
-<h3 style="color:red";>첫번째</h3> 프로젝트
+<h2 style="color:red";>첫번째 프로젝트</h2>
 
 참여인원 
 1명
